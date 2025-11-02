@@ -18,5 +18,6 @@
 [![](https://img.shields.io/badge/enka.network-69899c)]()
 </div>
 
-
+<div align="center">
 ![snake gif](https://github.com/loneT777/loneT777/blob/output/github-snake.svg)
+</div>
