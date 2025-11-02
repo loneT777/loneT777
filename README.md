@@ -3,10 +3,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Thevindu+Jayakody" width="70%" />
 <br><br>
 <pre>
-    💼 BSc Computer Science @ University of Westminster
-    💻 IT Intern @ Prime Minister's Department, Sri Lanka
-    📖 Software Development •
-    🎮 Music • Games • Anime • Code • Art
+    💼 Undergraduate BSc Computer Science @ University of Westminster  
+    💻 IT Intern @ IT Department of Prime Minister’s Office, Sri Lanka  
+    📖 Passionate about Software Development & Emerging Technologies  
+    🎮 Music • Games • Anime • Coding • Art
+
 </pre>
 <br><br>
 <img src="https://media.tenor.com/14fG1fVbu2QAAAAi/break.gif" height="40" />
