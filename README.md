@@ -17,3 +17,6 @@
 [![](https://img.shields.io/badge/osu!-ff66ab)]()
 [![](https://img.shields.io/badge/enka.network-69899c)]()
 </div>
+
+
+![snake gif](https://github.com/loneT777/loneT777/blob/output/github-snake.svg)
